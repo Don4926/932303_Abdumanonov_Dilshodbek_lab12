@@ -1,0 +1,36 @@
+﻿@using Backend2.Extensions
+@model RequestModel
+
+<h1>Result</h1>
+
+<p class="fs-2">
+    <span>
+        @Model.FirstNumber
+    </span>
+    <span>
+        @Model.Operator.Description()
+    </span>
+    <span>
+        @Model.SecondNumber
+    </span>
+    <span>=</span>
+    <span>
+        @Model.Result
+    </span>
+</p>
+
+<a href="@Url.Action("Index", "Home")">Назад к главной странице</a>
+
+@functions {
+    string GetOperationName(string operation)
+    {
+        return operation?.ToLower() switch
+        {
+            "add" => "+",
+            "subtract" => "-",
+            "multiply" => "*",
+            "divide" => "/",
+            _ => operation ?? "Неизвестная операция"
+        };
+    }
+}
