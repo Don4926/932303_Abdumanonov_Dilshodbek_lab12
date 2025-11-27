@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\modelbindingparam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\modelbindingparam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\modelbindingsep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\modelbindingsep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\separateactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\separateactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\singleaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\singleaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\controllers\\operationcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\controllers\\operationcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\extensions\\operaionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\extensions\\operaionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\models\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\response.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\operations\\modelbindingsep.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\operations\\modelbindingsep.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|c:\\users\\sinto.dom\\source\\repos\\backend2\\backend2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51CF587D-2885-4144-ADAE-35377AF77A18}|Backend2\\Backend2.csproj|solutionrelative:backend2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SingleAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\SingleAction.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\SingleAction.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\SingleAction.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\SingleAction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:51:50.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeparateActions.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\SeparateActions.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\SeparateActions.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\SeparateActions.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\SeparateActions.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:44:35.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelBindingSep.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingSep.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\ModelBindingSep.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingSep.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\ModelBindingSep.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:45:34.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelBindingParam.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingParam.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\ModelBindingParam.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingParam.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\ModelBindingParam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:45:01.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\Error.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\Error.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T05:11:21.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OperaionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Extensions\\OperaionExtensions.cs",
+              "RelativeDocumentMoniker": "Backend2\\Extensions\\OperaionExtensions.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Extensions\\OperaionExtensions.cs",
+              "RelativeToolTip": "Backend2\\Extensions\\OperaionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:56:11.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:43:11.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationContoller.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Controllers\\OperationContoller.cs",
+              "RelativeDocumentMoniker": "Backend2\\Controllers\\OperationContoller.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Controllers\\OperationContoller.cs",
+              "RelativeToolTip": "Backend2\\Controllers\\OperationContoller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:53:54.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "s.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\s.cs",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\s.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\s.cs",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\s.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:19:57.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Backend2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Backend2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:41:35.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Models\\RequestModel.cs",
+              "RelativeDocumentMoniker": "Backend2\\Models\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Models\\RequestModel.cs",
+              "RelativeToolTip": "Backend2\\Models\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:04:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Backend2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Backend2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:11:51.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T05:10:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Response.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\Response.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\Response.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\Response.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\Response.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:47:38.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelBindingSep.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingSep.cshtml.cs",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Operations\\ModelBindingSep.cshtml.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\Operations\\ModelBindingSep.cshtml.cs",
+              "RelativeToolTip": "Backend2\\Views\\Operations\\ModelBindingSep.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:07:13.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T03:48:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Program.cs",
+              "RelativeDocumentMoniker": "Backend2\\Program.cs",
+              "ToolTip": "C:\\Users\\sinto.dom\\source\\repos\\Backend2\\Backend2\\Program.cs",
+              "RelativeToolTip": "Backend2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T03:42:55.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
